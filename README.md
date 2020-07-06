@@ -1,1 +1,1 @@
-# factors_correlated_to_COVID-19
+# factors correlated to COVID-19
